@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966701182638",
+    "firebase_url": "https://trackkit-a5cf3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "trackkit-a5cf3",
+    "storage_bucket": "trackkit-a5cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966701182638:android:ae52f9b0fbb77496a5873f",
+        "android_client_info": {
+          "package_name": "com.example.trackkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966701182638-fnhe3mc0nd2i1kgca1ln0unifuplsdth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackkit",
+            "certificate_hash": "31c044e4a83f44f70f00a5bb3ab7f29ee1ad3c90"
+          }
+        },
+        {
+          "client_id": "966701182638-2u6tjkvu3rb8etl1riu66inv9rs3se5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTP0HBNOTn7CRG6AgV0-QGsrZe61nGDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966701182638-2u6tjkvu3rb8etl1riu66inv9rs3se5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966701182638-9tq2rv2j9pr8b5vckg7c5c5c0b8uud0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trackkit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
