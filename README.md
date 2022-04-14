@@ -1,2 +1,2 @@
-![Screenshot](assets/Screenshot_20220414_231427.png |width = 100)
+![Screenshot](assets/Screenshot_20220414_231427.png | width = 100)
 
