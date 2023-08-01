@@ -1,20 +1,51 @@
 
-Main Page
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h3 align="center">First Aid Tracking System</h3>
+</div>
 
-<img src="assets/Screenshot_20220414_231427.png" style=" width:50px ; height:100px " />
+<!-- ABOUT THE PROJECT -->
+## About The Project
+The purpose of this project is to create a online shoe store with LAMP stack.
 
-Items Page
+### 1. Full Catalogue page, with filtering
+![Alt text](image.png)
+### 2. Each Item can have many options. 
+### 3. Cart implemented using Sessions
+![Alt text](image-2.png)
+### 4. User have its own account and able to check order history
+![Alt text](image-3.png)
+### 5. If user is logged in as 'Admin', he will able to edit quantity and add new item
+![Alt text](image-4.png)
 
-<img src="assets/Screenshot_20220414_231459.png" style=" width:50px ; height:100px " />
+### Built With
 
-Specific Notification
+* ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+* ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<img src="assets/Screenshot_20220414_231531.png" style=" width:50px ; height:100px " />
 
-Our app is also able to Scan and Identify Items using QR Code. 
+<!-- CONTRIBUTING -->
+## Contributing
 
-Web
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-One of the Webpage after scanning the unique QR code. User is then able to edit items in the database.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-https://trackkit.000webhostapp.com/
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+Stanley - [stanleytanyr@gmail.com](stanleytanyr@gmail.com)
+
+Project Link: [https://github.com/Mushimush/sj-store](https://github.com/Mushimush/sj-store)
+
+
