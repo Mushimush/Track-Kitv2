@@ -7,7 +7,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The purpose of this project is to create a online shoe store with LAMP stack.
+First Aid tracking system for my school
 
 ### 1. Full Catalogue page, with filtering
 ![Alt text](image.png)
